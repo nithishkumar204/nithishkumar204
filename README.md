@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hi, I'm # Nithish Kumar 👋  <br><br>💻 A passionate Full-Stack Developer specializing in **React** , **Django**, **MySQL**, and **Bootstrap**.  <br><br>🚀 I enjoy creating dynamic and user-friendly web applications.  <br><br>🎯 Currently learning **Machine Learning** integration with Django.  <br><br>🌱 Always exploring new technologies to improve my coding skills.  <br><br>🌐 Profile built with [GPRM (GitHub Profile ReadMe Generator)](https://gprm.itsvg.in)  <br><br>📫 Connect with me for collaboration and ideas!  <br><br>⚡ Fun fact: I believe great design starts with clean code 😄<br>
+<br><br>Hi, I'm **NITHISH KUMAR** 👋  <br><br>💻 A passionate Full-Stack Developer specializing in **React** , **Django**, **MySQL**, and **Bootstrap**.  <br><br>🚀 I enjoy creating dynamic and user-friendly web applications.  <br><br>🎯 Currently learning **Machine Learning** integration with Django.  <br><br>🌱 Always exploring new technologies to improve my coding skills.  <br><br>🌐 Profile built with [GPRM (GitHub Profile ReadMe Generator)](https://gprm.itsvg.in)  <br><br>📫 Connect with me for collaboration and ideas!  <br><br>⚡ Fun fact: I believe great design starts with clean code 😄<br>
 
 
 ## 🌐 Socials:
