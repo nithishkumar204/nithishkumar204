@@ -25,10 +25,9 @@
 
 -->
 <p align="center">
-  <h2>🚀 My Awesome Project 🚀</h2>
+  <h2>😃 **Thank You** 😀
+</h2>
 </p>
-
-### 😃 **Thank You** 😀
 
 
 
